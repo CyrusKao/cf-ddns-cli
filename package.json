@@ -1,6 +1,6 @@
 {
   "name": "cf-ddns-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple CLI tool that updates Cloudflare DNS records dynamically (DDNS) with your current IP address (IPv6 supported), compatible with Cloudflare API v4.",
   "type": "module",
   "main": "build/index.js",
